@@ -222,4 +222,9 @@
     <string name="theme_accent_picker_default">Default</string>
     <string name="accent_picker_material_colors">Material palette</string>
     <string name="accent_picker_custom_colors">User requested</string>
+
+    <!-- Face auto unlock -->
+    <string name="face_auto_unlock_title">Automatic face unlock</string>
+    <string name="face_auto_unlock_summary">Dismiss lock screen after face unlock</string>
+
 </resources>
